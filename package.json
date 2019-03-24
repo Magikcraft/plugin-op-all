@@ -15,7 +15,7 @@
     },
     "husky": {
         "hooks": {
-            "pre-commit": "tsc && lint-staged && git add"
+            "pre-commit": "tsc && git add . && lint-staged"
         }
     },
     "lint-staged": {
