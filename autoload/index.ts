@@ -2,7 +2,7 @@ import { Logger } from '@magikcraft/op-all/lib/log'
 import * as events from 'events'
 const log = Logger(__filename)
 
-log('@magikcraft/op-all loaded!')
+log('@magikcraft/op-all plugin loaded!')
 
 log('Registering Player Join event handler')
 
