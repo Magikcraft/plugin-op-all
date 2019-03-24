@@ -2,6 +2,10 @@
     "name": "@magikcraft/op-all",
     "version": "1.0.0",
     "description": "Give op to everyone who joins the server",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Magikcraft/plugin-op-all.git"
+    },
     "keywords": [
         "scriptcraft",
         " scriptcraft-sma",
