@@ -13,6 +13,7 @@
     "smaPluginConfig": {
         "scriptcraft_load_dir": "autoload"
     },
+    "scriptcraft_load_dir": "autoload",
     "husky": {
         "hooks": {
             "pre-commit": "tsc && git add . && lint-staged"
